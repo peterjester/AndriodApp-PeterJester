@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PreLabAssignment</string>
+
+
+    <!-- Main Activity Strings -->
+    <string name="name">Name</string>
+    <string name="phoneNumber">Phone Number</string>
+
+    <string name="confirmButton">Click Here</string>
+    <string name="anotherButton">Another Button</string>
+    <string name="externalButton">Open tools</string>
+    <string name="btn_pass_params">Pass Parameters</string>
+
+    <string name="typeName">Type your name</string>
+    <string name="typePhone">Type your phone number</string>
+
+
+    <string name="simpleClickMessage">simpleClick() active</string>
+    <string name="anotherClickMessage">Another clicky toast message</string>
+
+    <string name="warningMessage">Please fill in the fields</string>
+
+    <!-- Second Activity Strings -->
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="welcomeMessage">Your phone number is: </string>
+
+
+</resources>
