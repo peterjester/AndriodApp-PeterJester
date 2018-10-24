@@ -23,6 +23,7 @@
     <!-- Second Activity Strings -->
     <string name="title_activity_second">SecondActivity</string>
     <string name="welcomeMessage">Your phone number is: </string>
+    <string name="PlaceHolder">PlaceHolder</string>
 
 
 </resources>

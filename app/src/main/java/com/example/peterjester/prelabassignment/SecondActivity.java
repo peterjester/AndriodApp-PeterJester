@@ -23,13 +23,8 @@ public class SecondActivity extends AppCompatActivity {
         String name = intent.getStringExtra("name_key");
         String phone = intent.getStringExtra("phone_key");
 
-        String msg = "OnCreate: " + name.toString();
-
-        Log.i("SecondAcvitiy", msg);
-
         nameView.setText(name);
         phoneView.setText(phone);
-
 
     }
 }
